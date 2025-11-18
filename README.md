@@ -1,52 +1,42 @@
-Question Paper Generator
+# Question Paper Generator
+
 A powerful Python application that automatically scrapes questions from multiple educational websites, detects relevant diagrams, and exports formatted question papers to DOCX format.
 
-🚀 Features
-Multi-URL Support: Import questions from multiple websites simultaneously
+## 🚀 Features
 
-Smart Deduplication: Automatically removes duplicate questions across sources
+- **Multi-URL Support**: Import questions from multiple websites simultaneously
+- **Smart Deduplication**: Automatically removes duplicate questions across sources
+- **Diagram Detection**: Captures relevant images and diagrams near questions
+- **MCQ Support**: Properly formats multiple-choice questions with options
+- **DOCX Export**: Creates professionally formatted Word documents
+- **User-Friendly GUI**: Built with CustomTkinter for modern interface
+- **Cross-Platform**: Works on Windows (executable provided)
 
-Diagram Detection: Captures relevant images and diagrams near questions
+## 📋 Prerequisites
 
-MCQ Support: Properly formats multiple-choice questions with options
+- **Windows OS** (for the provided executable)
+- **Python 3.8+** (if running from source)
+- **Chrome Browser** (for web scraping functionality)
 
-DOCX Export: Creates professionally formatted Word documents
+## 🛠️ Installation
 
-User-Friendly GUI: Built with CustomTkinter for modern interface
+### Method 1: Using Executable (Recommended for End Users)
 
-Cross-Platform: Works on Windows (executable provided)
+1. **Download** the `Question Paper Designer.zip` file
+2. **Extract** the zip file to your desired location:
+   - Right-click the zip file
+   - Select "Extract All..."
+   - Choose destination folder
+   - Click "Extract"
 
-📋 Prerequisites
-Windows OS (for the provided executable)
+3. **Run** the application:
+   - Navigate to the extracted folder
+   - Double-click `Question Paper Designer.exe`
+   - Allow access if Windows Defender prompts (first time only)
 
-Python 3.8+ (if running from source)
+### Method 2: From Source Code
 
-Chrome Browser (for web scraping functionality)
-
-🛠️ Installation
-Method 1: Using Executable (Recommended for End Users)
-Download the Question Paper Designer.zip file
-
-Extract the zip file to your desired location:
-
-Right-click the zip file
-
-Select "Extract All..."
-
-Choose destination folder
-
-Click "Extract"
-
-Run the application:
-
-Navigate to the extracted folder
-
-Double-click Question Paper Designer.exe
-
-Allow access if Windows Defender prompts (first time only)
-
-Method 2: From Source Code
-bash
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/question-paper-generator.git
 
