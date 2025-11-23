@@ -1,149 +1,156 @@
 Question Paper Designer - Project Statements
+
 Problem Statement
+
 Educational institutions and examination bodies face significant challenges in creating well-structured question papers that meet specific academic standards and requirements. The current manual process of question paper design is:
 
-Time-consuming: Educators spend hours compiling questions, formatting, and ensuring proper structure
+1. Time-consuming: Educators spend hours compiling questions, formatting, and ensuring proper structure
 
-Error-prone: Manual processes lead to inconsistencies in marking schemes, difficulty levels, and question distribution
+2. Error-prone: Manual processes lead to inconsistencies in marking schemes, difficulty levels, and question distribution
 
-Inconsistent: Lack of standardized templates results in varying quality across different question papers
+3. Inconsistent: Lack of standardized templates results in varying quality across different question papers
 
-Inefficient: Difficulty in maintaining question banks and reusing questions effectively
+4. Inefficient: Difficulty in maintaining question banks and reusing questions effectively
 
-Compliance challenges: Ensuring question papers meet specific curriculum requirements and examination patterns
+5. Compliance challenges: Ensuring question papers meet specific curriculum requirements and examination patterns
 
 Scope of the Project
+
 In-Scope
-Question Bank Management: Create, store, edit, and categorize questions with metadata
+1. Question Bank Management: Create, store, edit, and categorize questions with metadata
 
-Template System: Pre-defined templates for various question paper patterns (MCQ, descriptive, mixed)
+2. Template System: Pre-defined templates for various question paper patterns (MCQ, descriptive, mixed)
 
-Automated Generation: Generate question papers based on predefined criteria and constraints
+3. Automated Generation: Generate question papers based on predefined criteria and constraints
 
-Customization: Allow manual editing and customization of auto-generated question papers
+4. Customization: Allow manual editing and customization of auto-generated question papers
 
-Export Functionality: Export question papers to multiple formats (PDF, Word, etc.)
+5. Export Functionality: Export question papers to multiple formats (PDF, Word, etc.)
 
-User Management: Role-based access for different types of users
+6. 6User Management: Role-based access for different types of users
 
-Marking Scheme Integration: Automatic calculation and distribution of marks
+7. Marking Scheme Integration: Automatic calculation and distribution of marks
 
 Out-of-Scope
-Online Examination Conduct: The system focuses on paper creation, not test administration
+1. Online Examination Conduct: The system focuses on paper creation, not test administration
 
-Student Performance Analytics: No tracking or analysis of student results
+2. Student Performance Analytics: No tracking or analysis of student results
 
-Plagiarism Detection: Advanced content similarity checking
+3. Plagiarism Detection: Advanced content similarity checking
 
-Mobile Application: Primary focus is web-based platform
+4. Mobile Application: Primary focus is web-based platform
 
-Multi-language Support: Initial version supports English language only
+6. Multi-language Support: Initial version supports English language only
 
-AI-based Question Generation: Manual question input with automated paper assembly
+7. AI-based Question Generation: Manual question input with automated paper assembly
 
 Target Users
+
 Primary Users
-Teachers & Professors
+1. Teachers & Professors
 
-Create question papers for classroom tests and university examinations
+    Create question papers for classroom tests and university examinations
 
-Maintain personal question banks
+    Maintain personal question banks
 
-Generate multiple versions of similar question papers
+    Generate multiple versions of similar question papers
 
-Educational Institutions
+2. Educational Institutions
 
-Standardize question paper formats across departments
+    Standardize question paper formats across departments
 
-Maintain institutional question banks
+    Maintain institutional question banks
 
-Ensure compliance with academic standards
+    Ensure compliance with academic standards
 
 Secondary Users
-Examination Boards
+1. Examination Boards
 
-Create standardized question papers for board examinations
+    Create standardized question papers for board examinations
 
-Maintain large-scale question repositories
+    Maintain large-scale question repositories
 
-Ensure consistency across different examination centers
+    Ensure consistency across different examination centers
 
-Coaching Institutes
+2. Coaching Institutes
 
-Generate practice papers and mock tests
+    Generate practice papers and mock tests
 
-Create customized question sets for different student levels
+    Create customized question sets for different student levels
 
-Content Developers
+3. Content Developers
 
-Create question papers for educational publications
+    Create question papers for educational publications
 
-Develop assessment materials for textbooks
+    Develop assessment materials for textbooks
 
 High-level Features
+
 Core Features
-Question Management
 
-Add, edit, and categorize questions with metadata
+1. Question Management
 
-Tag questions by difficulty level, topic, and marks
+    Add, edit, and categorize questions with metadata
 
-Search and filter questions from the question bank
+    Tag questions by difficulty level, topic, and marks
 
-Template System
+    Search and filter questions from the question bank
 
-Pre-built templates for various examination patterns
+2. Template System
 
-Custom template creation with flexible sections
+    Pre-built templates for various examination patterns
 
-Header and footer customization with institution details
+    Custom template creation with flexible sections
 
-Intelligent Paper Generation
+    Header and footer customization with institution details
 
-Automatic question selection based on criteria
+3. Intelligent Paper Generation
 
-Balanced distribution of marks and difficulty levels
+    Automatic question selection based on criteria
 
-Constraint-based generation (time, marks, topics)
+    Balanced distribution of marks and difficulty levels
 
-Manual Editing Interface
+    Constraint-based generation (time, marks, topics)
 
-Drag-and-drop question rearrangement
+4. Manual Editing Interface
 
-Real-time mark calculation and balance checking
+    Drag-and-drop question rearrangement
 
-Preview functionality before final export
+    Real-time mark calculation and balance checking
+
+    Preview functionality before final export
 
 Advanced Features
-Export & Sharing
 
-Multiple format export (PDF, DOCX, HTML)
+1. Export & Sharing
 
-Institution branding options
+    Multiple format export (PDF, DOCX, HTML)
 
-Secure sharing and collaboration
+    Institution branding options
 
-User Management
+    Secure sharing and collaboration
 
-Role-based access control
+2. User Management
 
-Personal and institutional question banks
+    Role-based access control
 
-Collaboration features for team projects
+    Personal and institutional question banks
 
-Quality Assurance
+    Collaboration features for team projects
 
-Mark distribution analysis
+3. Quality Assurance
 
-Difficulty level balancing
+    Mark distribution analysis
 
-Compliance checking with syllabus coverage
+    Difficulty level balancing
 
-Version Control
+    Compliance checking with syllabus coverage
 
-Save multiple versions of question papers
+4. Version Control
 
-Track changes and modifications
+    Save multiple versions of question papers
 
-Revert to previous versions if needed
+    Track changes and modifications
+
+    Revert to previous versions if needed
 
