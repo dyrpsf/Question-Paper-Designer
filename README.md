@@ -45,6 +45,7 @@ pip install -r requirements.txt
 
 # Run the application
 python main.py
+```
 📖 How to Use
 Step 1: Specify Number of Websites
 Enter how many website URLs you want to scrape
