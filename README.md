@@ -45,6 +45,7 @@ pip install -r requirements.txt
 
 # Run the application
 python main.py
+```
 📖 How to Use
 Step 1: Specify Number of Websites
 Enter how many website URLs you want to scrape
@@ -154,4 +155,3 @@ This project is provided for educational and personal use.
 Thank you for using Question Paper Generator! 🎉
 
 Author : Deepak Yadav
-VIT Bhopal University
