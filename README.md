@@ -154,5 +154,5 @@ This project is provided for educational and personal use.
 
 Thank you for using Question Paper Generator! 🎉
 
-Author : Deepak Yadav
+Author : Deepak Yadav<br>
 VIT Bhopal University
